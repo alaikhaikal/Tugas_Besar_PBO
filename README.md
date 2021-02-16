@@ -2,6 +2,10 @@
 Program ini dibuat untuk memenuhi Tugas Besar Mata Kuliah Pemrograman Berorientasi Objek
 # Program Parkir
 ## Pemrograman Berorientasi Objek - Kelompok 2
+Anggota
+- 18104007 Dimas Amran A
+- 19104009 Pramita Cintiari D
+- 19104067 Alaik Haikal Alfaizi
 ### Latar Belakang
 Lahan parkiran saat ini nyatanya bisa menghasilkan pundi-pundi rupiah. Lahan parkir resmi atau tidak resmi pun bisa menciptakan lapangan kerja. Pasalnya, perputaran uang yang berada di atas lahan parkir sangat besar. Bukan hanya ratusan ribu melainkan uang yang berputar di sana bisa mencapai puluhan juga hingga ratusan juta per bulannya. Bahkan ada orang yang nekat ingin membeli lahan parkir dengan nilai cukup besar. Tak heran banyak pihak yang berebut lahan parkir hingga terlibat baku hantam. Oleh karena itu, sistem parkir yang berbasis digital sangat dibutuhkan untuk menjamin keamanan dan kenyamanan dari pengguna maupun pemilik lahan parkir itu sendiri.
 ### Tujuan
@@ -40,6 +44,7 @@ Untuk menjalankan program
 ```
 $ node main.js
 ```
+atau dapat langsung menggunakan online IDE pada link [ini](https://repl.it/join/rslszwuc-alaikhaikal).
 ### Screenshot App
 `Note: Input jam keluar hanya bisa dilakukan pada jam yang sama pada jam masuk`  
 #### Example  
@@ -52,3 +57,5 @@ Jam keluar : 07:30 :x:
 ![gt2](https://user-images.githubusercontent.com/55581387/108008962-22d61d80-7034-11eb-9435-23d19b4607c2.png)
 ![gt3](https://user-images.githubusercontent.com/55581387/108008977-29649500-7034-11eb-92e7-38314959b628.png)
 ![gt4](https://user-images.githubusercontent.com/55581387/108008988-31243980-7034-11eb-9388-f88b0a0be1de.png)
+#### Youtube Presentation Link
+https://youtu.be/yfk_vEOMmrA
