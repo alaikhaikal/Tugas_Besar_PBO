@@ -1,8 +1,17 @@
 # Tugas_Besar_PBO
+Program ini dibuat untuk memenuhi Tugas Besar Mata Kuliah Pemrograman Berorientasi Objek
 # Program Parkir
 ## Pemrograman Berorientasi Objek - Kelompok 2
-### Konsep
-Program yang kami ciptakan pada dasarnya ditujukan untuk mempermudah dalam penghitungan jumlah kendaraan yang masuk dan keluar dalam suatu lahan parkir secara efisien. Selain itu mengurangi parkiri liar dengan tarif yang tidak masuk akal
+### Latar Belakang
+Lahan parkiran saat ini nyatanya bisa menghasilkan pundi-pundi rupiah. Lahan parkir resmi atau tidak resmi pun bisa menciptakan lapangan kerja. Pasalnya, perputaran uang yang berada di atas lahan pLahan parkiran nyatanya bisa menghasilkan pundi-pundi rupiah. Lahan parkir resmi atau tidak resmi pun bisa menciptakan lapangan kerja. Pasalnya, perputaran uang yang berada di atas lahan parkir sangat besar. Bukan hanya ratusan ribu melainkan uang yang berputar di sana bisa mencapai puluhan juga hingga ratusan juta per bulannya. Bahkan ada orang yang nekat ingin membeli lahan parkir dengan nilai cukup besar. Tak heran banyk pihak yang berebut lahan parkir hingga terlibat baku hantam.arkir sangat besar. Bukan hanya ratusan ribu melainkan uang yang berputar di sana bisa mencapai puluhan juga hingga ratusan juta per bulannya. Oleh karena itu, sistem parkir yang berbasis digital sangat dibutuhkan untuk menjamin keamanan dan kenyamanan dari pengguna maupun pemilik lahan parkir itu sendiri.
+### Tujuan
+Program yang kami ciptakan pada dasarnya ditujukan untuk mempermudah dalam penghitungan jumlah kendaraan yang masuk dan keluar dalam suatu lahan parkir secara efisien. Selain itu, program ini juga mengurangi kemungkinan parkir liar dengan tarif yang tidak masuk akal
+### Fitur
+1. Data Kendaraan: meliputi jam masuk dan jam keluar kendaraan
+2. Kendaraan Masuk: mendata kendaraan yang baru masuk
+3. Kendaraan Keluar: mendata kendaraan yang keluar
+### Class Diagram
+![PBO](https://user-images.githubusercontent.com/55581387/108008224-75163f00-7032-11eb-8a76-f41309350227.png)
 ### Installation
 Install node.js terlebih dahulu
 #### Ubuntu
@@ -24,7 +33,7 @@ $ npm -v||-version
 ```
 ### Demo App
 Untuk menjalankan program
-- Unduh code
+- Unduh kode
 - Buka Terminal
 - Ubah alamat direktori ke lokasi direktori unduhan
 - Kemudian jalankan perintah:
@@ -39,9 +48,7 @@ Jam keluar : 06:30 :heavy_check_mark:
 Jam masuk : 06:00  
 Jam keluar : 07:30 :x:  
 
-![gt1](https://user-images.githubusercontent.com/55581387/107952250-18803900-6fcc-11eb-8c3c-f556f0a1b6b8.png)  
-![gt2](https://user-images.githubusercontent.com/55581387/107952312-2fbf2680-6fcc-11eb-9299-9cc68287f5af.png)  
-![gt3](https://user-images.githubusercontent.com/55581387/107952372-406f9c80-6fcc-11eb-958d-340191b87f33.png)  
-![gt4](https://user-images.githubusercontent.com/55581387/107952403-4bc2c800-6fcc-11eb-9e9c-b4611d442c59.png)  
-![gt5](https://user-images.githubusercontent.com/55581387/107952423-52e9d600-6fcc-11eb-92cc-075e7de5b196.png)  
-![gt6](https://user-images.githubusercontent.com/55581387/107952446-5aa97a80-6fcc-11eb-8693-879a60c2b7e5.png)
+![gt1](https://user-images.githubusercontent.com/55581387/108008937-181b8880-7034-11eb-8470-07bb7302437a.png)
+![gt2](https://user-images.githubusercontent.com/55581387/108008962-22d61d80-7034-11eb-9435-23d19b4607c2.png)
+![gt3](https://user-images.githubusercontent.com/55581387/108008977-29649500-7034-11eb-92e7-38314959b628.png)
+![gt4](https://user-images.githubusercontent.com/55581387/108008988-31243980-7034-11eb-9388-f88b0a0be1de.png)
