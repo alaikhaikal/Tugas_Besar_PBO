@@ -17,9 +17,9 @@ Program yang kami ciptakan pada dasarnya ditujukan untuk mempermudah penghitunga
 ### Class Diagram
 ![PBO](https://user-images.githubusercontent.com/55581387/108008224-75163f00-7032-11eb-8a76-f41309350227.png)
 ### Installation
-Install node.js terlebih dahulu
+Install **node.js** terlebih dahulu
 #### Ubuntu
-Untuk menginstall **node.js**, ikuti langkah berikut:
+Untuk menginstall node.js, ikuti langkah berikut:
 ```
 $ sudo apt install nodejs
 ```
@@ -35,7 +35,7 @@ Setelah terinstal, verifikasi NPM version dengan perintah
 ```
 $ npm -v||-version
 ```
-### Demo App
+### Run Program
 Untuk menjalankan program
 - Unduh kode
 - Buka Terminal
@@ -44,8 +44,8 @@ Untuk menjalankan program
 ```
 $ node main.js
 ```
-atau dapat langsung menggunakan online IDE pada link [ini](https://repl.it/join/rslszwuc-alaikhaikal).
-### Screenshot App
+atau dapat langsung menggunakan online IDE [disini](https://repl.it/join/rslszwuc-alaikhaikal).
+### Screenshot
 `Note: Input jam keluar hanya bisa dilakukan pada jam yang sama pada jam masuk`  
 #### Example  
 Jam masuk : 06:00  
